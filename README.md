@@ -30,16 +30,18 @@ Citation
 If you find the resources in this repository useful, please consider citing:
 ```
 @inproceedings{resnick*2020cap,
-    author = {Resnick*, Cinjon and Gupta*, Abhinav and Foerster, Jakob and Dai, Andrew and Cho, Kyunghyun},
+    author = {Resnick*, Cinjon and Gupta*, Abhinav and Foerster, Jakob and Dai, Andrew M. and Cho, Kyunghyun},
     title = {Capacity, Bandwidth, and Compositionality in Emergent Language Learning},
     year = {2020},
+    isbn = {9781450375184},
     publisher = {International Foundation for Autonomous Agents and Multiagent Systems},
     address = {Richland, SC},
     booktitle = {Proceedings of the 19th International Conference on Autonomous Agents and MultiAgent Systems},
+    pages = {1125–1133},
     numpages = {9},
-    keywords = {Multi-agent communication, Compositionality, Emergent languages},
+    keywords = {emergent languages, compositionality, multi-agent communication},
     location = {Auckland, New Zealand},
     series = {AAMAS ’20},
-    url = {https://arxiv.org/abs/1910.11424},
+    url = {http://www.ifaamas.org/Proceedings/aamas2020/pdfs/p1125.pdf}
 }
 ```
